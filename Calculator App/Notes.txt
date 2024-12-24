@@ -1,0 +1,8 @@
+////////////////
+CALCULATOR APP
+
+    Code:
+
+        .forEach() -> Quando se utilizar um querySelectorAll() para itinerar sobre todo os elementos daquela variável
+        
+        .substring(0, visorValueLen - 1) -> Cria uma nova string contendo todos os caracteres da string original, exceto o último.
